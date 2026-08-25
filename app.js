@@ -4,7 +4,7 @@
 
 // REPLACE THESE TWO VALUES
 
-const SUPABASE_URL = "https://opdbtcrxbbdanameynyr.supabase.co/rest/v1/";
+const SUPABASE_URL = "https://opdbtcrxbbdanameynyr.supabase.co/rest/v1";
 
 const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9wZGJ0Y3J4YmJkYW5hbWV5bnlyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODc1NTE4MzAsImV4cCI6MjEwMzEyNzgzMH0.tU_PbAz-FYMsAHzz9CIOfX30vyAKIKuviM_xHRR6VVY";
 
