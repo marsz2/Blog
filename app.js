@@ -4,7 +4,7 @@
 
 // REPLACE THESE TWO VALUES
 
-const SUPABASE_URL = "YOUR_SUPABASE_PROJECT_URL";
+const SUPABASE_URL = "https://opdbtcrxbbdanameynyr.supabase.co/rest/v1/";
 
 const SUPABASE_KEY = "YOUR_SUPABASE_PUBLISHABLE_KEY";
 
